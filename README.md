@@ -1,3 +1,7 @@
+microservices-config
+
+Central repository configuration for Eazy Bank microservices project.
+
 # Microservices With Spring, Docker, Kubernetes
 
 [![Image](https://img-c.udemycdn.com/redactor/raw/article_lecture/2021-09-21_15-17-14-c5705dce975bc9d24b31214f80cda2b4.JPG "Master Microservices with Spring, Docker, Kubernetes")](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/?referralCode=9365DB9B7EE637F629A9)
